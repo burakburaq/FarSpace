@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "farspace:block/oxygen_block"
+  }
+}

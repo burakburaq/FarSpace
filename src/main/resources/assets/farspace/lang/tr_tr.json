@@ -1,0 +1,12 @@
+{
+  "item.farspace.oxygen_tank_1": "Küçük Oksijen Tankı",
+  "item.farspace.oxygen_tank_2": "Orta Oksijen Tankı",
+  "item.farspace.oxygen_tank_3": "Büyük Oksijen Tankı",
+  "item.farspace.space_helmet": "Astronot Kaskı",
+  "item.farspace.space_chestplate": "Astronot Kıyafeti",
+  "item.farspace.space_leggings": "Astronot Pantolonu",
+  "item.farspace.space_boots": "Astronot Botları",
+  "itemGroup.farspace.items": "FarSpace",
+  "block.farspace.oxygen_block": "Oksijen Bloğu",
+  "block.farspace.tether": "Oksijen Tetheri"
+}

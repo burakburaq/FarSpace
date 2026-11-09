@@ -1,0 +1,12 @@
+{
+  "item.farspace.oxygen_tank_1": "Small Oxygen Tank",
+  "item.farspace.oxygen_tank_2": "Medium Oxygen Tank",
+  "item.farspace.oxygen_tank_3": "Large Oxygen Tank",
+  "item.farspace.space_helmet": "Space Helmet",
+  "item.farspace.space_chestplate": "Space Suit",
+  "item.farspace.space_leggings": "Space Leggings",
+  "item.farspace.space_boots": "Space Boots",
+  "itemGroup.farspace.items": "FarSpace",
+  "block.farspace.oxygen_block": "Oxygen Block",
+  "block.farspace.tether": "Oxygen Tether"
+}

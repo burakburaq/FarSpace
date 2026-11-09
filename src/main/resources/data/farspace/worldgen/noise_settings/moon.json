@@ -1,0 +1,27 @@
+{
+  "default_block": "minecraft:cobblestone",
+  "default_fluid": "minecraft:air",
+  "disable_mob_generation": true,
+  "legacy_random_source": false,
+  "material_rule": "farspace:moon",
+  "noise": {
+    "min_y": -128,
+    "height": 256
+  },
+  "noise_router": {
+    "chunk_surface_level": {
+      "type": "farspace:moon_surface"
+    },
+    "continents": 0.0,
+    "depth": 0.0,
+    "erosion": 0.0,
+    "final_density": {
+      "type": "farspace:moon_density"
+    },
+    "ridges": 0.0,
+    "temperature": 0.0,
+    "vegetation": 0.0
+  },
+  "sea_level": 0,
+  "spawn_target": []
+}

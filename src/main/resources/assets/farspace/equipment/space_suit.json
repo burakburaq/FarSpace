@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "farspace:space_suit"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "farspace:space_suit"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "farspace:space_suit"
+      }
+    ]
+  }
+}

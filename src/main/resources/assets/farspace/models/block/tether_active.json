@@ -1,0 +1,6 @@
+{
+  "parent": "farspace:block/tether",
+  "textures": {
+    "light": "farspace:block/tether_light"
+  }
+}

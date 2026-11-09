@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "connectable=false": {
+      "model": "farspace:block/tether"
+    },
+    "connectable=true": {
+      "model": "farspace:block/tether_active"
+    }
+  }
+}

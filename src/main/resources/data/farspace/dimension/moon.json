@@ -1,0 +1,17 @@
+{
+  "type": "farspace:moon",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "farspace:moon_biomes",
+      "biomes": [
+        "farspace:a",
+        "farspace:b",
+        "farspace:c",
+        "farspace:d",
+        "farspace:e"
+      ]
+    },
+    "settings": "farspace:moon"
+  }
+}

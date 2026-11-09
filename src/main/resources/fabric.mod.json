@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "farspace",
+  "version": "${version}",
+  "name": "FarSpace",
+  "description": "Space mod",
+  "license": "BSD-3-Clause",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.farspace.FarSpace"
+    ],
+    "client": [
+      "dev.farspace.FarSpaceClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "mixins": [
+    "farspace.mixins.json"
+  ]
+}
